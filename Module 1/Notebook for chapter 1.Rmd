@@ -87,7 +87,7 @@ summary(mydf)
 Loading files
 ```{r}
 covid_19 <- read.csv('india_covid_19_statewise_status.csv')
-covid_19
+covid_19 #lol
 ```
 ASSIGNMENT
 Assignment for chapter -1 
